@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm 0bule1</h1>
-![gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3M3aHNieDdia2R1OW1la2NvMnhseWJ3dmM4dTBpc290cGFmYWpraCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jmS6emKfUZXbO88P00/giphy.gif)
+<h3 align="center"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3M3aHNieDdia2R1OW1la2NvMnhseWJ3dmM4dTBpc290cGFmYWpraCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jmS6emKfUZXbO88P00/giphy.gif" alt="AI_GIF"> </h3>
 <h3 align="center">A passionate AI developer and Ethical Hacker (Penetration Tester)</h3>
 
 - 📫 How to reach me **0bule1@proton.me**
