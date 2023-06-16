@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm 0bule1</h1>
-<h3 align="center">A passionate AI developer and ethical hacker</h3>
+<h3 align="center">A passionate AI developer and Ethical Hacker (Penetration Tester)</h3>
 
 - 📫 How to reach me **0bule1@proton.me**
 
