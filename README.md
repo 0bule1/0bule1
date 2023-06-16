@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm 0bule1</h1>
-![gif](https://i.gifer.com/758Y.mp4)
+![gif](https://giphy.com/gifs/3d-trippy-glitch-jmS6emKfUZXbO88P00)
 <h3 align="center">A passionate AI developer and Ethical Hacker (Penetration Tester)</h3>
 
 - 📫 How to reach me **0bule1@proton.me**
