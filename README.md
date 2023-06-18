@@ -4,14 +4,7 @@
 
 ### | Professional Ethical Hacker (Penetration Tester) and AI Developer
 
-Welcome to my GitHub profile! I'm Andrej, a professional Ethical Hacker (Penetration Tester) and AI Developer with expertise in various programming languages, frameworks, libraries, and Linux. I'm passionate about cybersecurity, artificial intelligence, and software development.
-
-## About Me
-
-- 💻 Ethical Hacker (Penetration Tester)
-- 🧠 AI Developer
-- 🖥️ Programming Languages: Python, JavaScript, C++, C, PHP
-- 🐧 Linux Expert
+Welcome to my GitHub profile! I'm Andrej, a professional Ethical Hacker and AI Developer with expertise in various programming languages, frameworks, libraries, and Linux. I'm passionate about cybersecurity, artificial intelligence, and software development.
 
 Feel free to explore my repositories to see more projects I've worked on.
 
