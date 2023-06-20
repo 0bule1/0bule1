@@ -1,6 +1,5 @@
 ### Introduction
 Welcome to my GitHub profile. My name is Andrej, and I am a programmer and ethical hacker. With a strong background in various programming languages, frameworks, and tools, I strive to create innovative solutions while maintaining a strong ethical foundation. This README file will provide you with an overview of my skills and areas of expertise.
-
 ### Programming Languages
 - C
 - C++
