@@ -15,7 +15,6 @@ Welcome to my GitHub profile. My name is Andrej, and I am a programmer and ethic
 ### Backend Development & AI/Machine Learning
 - Nginx
 - Node.js
-&
 - Pandas
 - TensorFlow
 ### Databases
