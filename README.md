@@ -34,6 +34,7 @@ On my GitHub profile, you will find a variety of projects that demonstrate my sk
 - Data analysis
 - Machine learning
 - Ethical hacking
+
 Feel free to explore my repositories and engage with the code. I appreciate feedback, contributions, and collaboration opportunities.
 ### Contact Information
 If you would like to get in touch with me, feel free to reach out through the following channels:
