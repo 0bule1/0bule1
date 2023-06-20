@@ -9,8 +9,7 @@
 ### Connect with me
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/andrej-janjetovic-ab204b280/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/andrej-janjetovic-ab204b280/" height="30" width="40" /></a>
-<a href="https://instagram.com/0bule1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="0bule1" height="30" width="40" /></a>
-</p>
+<a href="https://instagram.com/0bule1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="0bule1" height="30" width="40" /></a></p>
 - 📫 How to reach me **0bule1@proton.me**
 
 ### Programming Languages
