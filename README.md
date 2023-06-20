@@ -38,9 +38,9 @@ On my GitHub profile, you will find a variety of projects that demonstrate my sk
 Feel free to explore my repositories and engage with the code. I appreciate feedback, contributions, and collaboration opportunities.
 ### Contact Information
 If you would like to get in touch with me, feel free to reach out through the following channels:
-- GitHub: github.com/0bule1
+- GitHub: [Github](https://www.github.com/0bule1)
 - Email: 0bule1@proton.me
-- LinkedIn: linkedin.com/in/andrej-janjetovic-ab204b280/
+- LinkedIn: [Linkedin](https://www.linkedin.com/in/andrej-janjetovic-ab204b280/)
 ### Conclusion
 Thank you for visiting my GitHub profile! I am passionate about programming, ethical hacking, and leveraging technology to solve complex problems. I look forward to connecting with like-minded individuals and collaborating on exciting projects.
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=0bule1&show_icons=true&theme=dark&locale=en&layout=compact" alt="0bule1" /></p>
