@@ -17,7 +17,10 @@ Passionate self-educated Ethical Hacker/Penetration Tester with extensive knowle
 - [ ] Offensive Security Certified Professional (OSCP) - In Progress
 
 ### Contact
+- Email: itsec.andrej@gmail.com
+- Linktree: https://linktr.ee/itsec.andrej
 - LinkedIn: https://www.linkedin.com/in/andrej-janjetovic-ab204b280/
-- Email: 0bule1@proton.me
+- Twitter: https://twitter.com/itsec_andrej
+- Instagram: https://www.instagram.com/itsec.andrej
 
 Feel free to reach out if you have any questions, collaboration opportunities, or if you'd like to discuss anything related to cybersecurity. Let's connect and contribute to making digital ecosystems more secure!
