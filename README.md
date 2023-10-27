@@ -1,6 +1,6 @@
 - [x] Arch linux
-- [x] Python
 - [x] C/C++
+- [x] Python
 - [x] Javascript
 - [x] PHP
 - [x] HTML & CSS
