@@ -5,4 +5,4 @@
 - [x] PHP
 - [x] HTML & CSS
 
-[Join](https://discord.gg/7h4dX2QnxA) my Discord server. (https://discord.gg/7h4dX2QnxA)
+https://discord.gg/7h4dX2QnxA
