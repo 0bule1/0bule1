@@ -4,3 +4,5 @@
 - [x] Javascript
 - [x] PHP
 - [x] HTML & CSS
+
+Discord server link: https://discord.gg/7h4dX2QnxA ([Join]([https://www.google.com](https://discord.gg/7h4dX2QnxA)https://discord.gg/7h4dX2QnxA))
