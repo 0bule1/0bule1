@@ -3,4 +3,5 @@
 - [x] shell script
 - [x] python
 - [x] javascript
+- [x] SQL
 - [x] PHP
