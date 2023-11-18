@@ -1,4 +1,6 @@
+- OS
 - [x] Arch linux
+- languages
 - [x] C/C++
 - [x] Python
 - [x] Javascript
