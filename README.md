@@ -11,6 +11,7 @@ skills:
 - [x] malware analysis
 - [x] digital forensics
 - [x] binary exploitation
+- [x] cryptography
 
 languages:
 - [x] assembly
