@@ -13,6 +13,7 @@ skills:
 - [x] binary exploitation
 
 languages:
+- [x] assembly
 - [x] C/C++
 - [x] shell script
 - [x] python
