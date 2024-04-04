@@ -1,8 +1,8 @@
 **Cyber Security Engineer**
 
 *Offensive Security Certified Professional (OSCP)*<br>
-*Certified Ethical Hacker (CEH)*
-*Security+*
+*Certified Ethical Hacker (CEH)*<br>
+*Security+*<br>
 *Network+*
 
 skills:
