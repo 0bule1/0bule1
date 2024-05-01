@@ -1,25 +1,6 @@
-**Cyber Security Engineer**
-
-*Offensive Security Certified Professional (OSCP)*<br>
-*Certified Ethical Hacker (CEH)*<br>
-*Security+*<br>
-*Network+*
-
-skills:
-- [x] linux
-- [x] networking
-- [x] malware analysis
-- [x] digital forensics
-- [x] binary exploitation
-- [x] cryptography
-
-languages:
-- [x] assembly
-- [x] C/C++
-- [x] shell script
-- [x] python
-- [x] SQL
-- [x] PHP
-- [x] javascript
+- [x] offensive Security Certified Professional (OSCP)
+- [x] certified Ethical Hacker (CEH)
+- [x] security+
+- [x] network+
 
 *i use arch btw*
