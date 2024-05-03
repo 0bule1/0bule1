@@ -1,4 +1,4 @@
-sybersecurity engineer
+cybersecurity engineer
 
 i do stuff for fun
 
